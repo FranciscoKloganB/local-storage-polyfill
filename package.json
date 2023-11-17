@@ -1,5 +1,5 @@
 {
-  "name": "@mswjs/local-storage-polyfill",
+  "name": "@franciscokloganb/local-storage-polyfill",
   "version": "0.1.0",
   "description": "",
   "main": "build/index.js",
